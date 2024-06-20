@@ -1,0 +1,38 @@
+.body{
+    padding: 0% 20%;
+}
+.parentcontainer{
+/* padding: 2% 33% 0% 30%; */
+padding: 10% 36%;
+height: 420px;
+background-color: hsl(212, 45%, 89%);
+}
+.container{
+    height: 358px;
+    padding: 10px;
+    /* margin-right: 160px; */
+    background-color: hsl(0, 0%, 100%);
+}
+.man{ height: 220px;
+    width: 200px;
+    border-radius: 10px;
+}
+.boy{
+    text-align: center;
+    padding-left: 10px;
+    padding-left: 10px;
+}
+.woman{ 
+    font-weight: 900;
+    font-size: 15px;
+    color: hsl(218, 44%, 22%);
+}
+.girl{
+    font-size: 12px;
+    margin-left: 5px;
+    margin-left: 5px;
+    color: hsl(220, 15%, 55%);
+}
+
+
+
